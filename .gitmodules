@@ -1,0 +1,3 @@
+[submodule "module/app-component"]
+	path = module/app-component
+	url = https://github.com/Ceyl0n/app-component.git
